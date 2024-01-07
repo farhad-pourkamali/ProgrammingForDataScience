@@ -3,5 +3,5 @@ This repo contains lecture notes and other course materials for MATH 1376: Progr
 
 | Lecture       | Description                                  | 
 |-------------|----------------------------------------------|
-| Lecture 1     | Python Basics (Arithmetic/Comparison/Logical Operators)                   |
-| Lecture 2     | Python Data Structures (List, Tuple, Set, Dictionary)    |
+| Lecture 1     | Python Basics: Arithmetic/Comparison/Logical Operators                   |
+| Lecture 2     | Python Data Structures: List, Tuple, Set, Dictionary    |

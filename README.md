@@ -8,3 +8,4 @@ This repo contains lecture notes and other course materials for MATH 1376: Progr
 | Lecture 3     | Python Data Structures: NumPy ndarray     | https://youtu.be/jSOJayMhDv8 |
 | Lecture 4     | Functions in Python: Built-in/Custom/Lambda Functions | https://youtu.be/h7NtIye5tgo  |
 | Lecture 5     | Branching Statements (if, elif, else)   | https://youtu.be/DFlpMFb-FpU   |
+| Lecture 6     | Iteration (for/while loop and list comprehension) |                      |

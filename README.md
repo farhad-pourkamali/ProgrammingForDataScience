@@ -11,3 +11,4 @@ This repo contains lecture notes and other course materials for MATH 1376: Progr
 | Lecture 6     | Iteration (for/while loop and list comprehension) |                      |
 | Lecture 7     | Object-Oriented Programming (OOP), Part 1   |              |
 | Lecture 8     | Object-Oriented Programming (OOP), Part 2   |              | 
+| Lecture 9     | Modules and Packages         |            |

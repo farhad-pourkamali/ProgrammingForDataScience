@@ -13,3 +13,4 @@ This repo contains lecture notes and other course materials for MATH 1376: Progr
 |  8     | Object-Oriented Programming (OOP), Part 2   |              | 
 |  9     | Modules and Packages in Python         |            |
 |  10    | Visualizing and Plotting (Matplotlib)     |            |
+| 11     | Data Manipulation with Pandas DataFrame    |            |

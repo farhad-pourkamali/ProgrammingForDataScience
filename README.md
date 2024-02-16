@@ -11,5 +11,5 @@ This repo contains lecture notes and other course materials for MATH 1376: Progr
 |  6     | Iteration (for/while loop and list comprehension) |                      |
 |  7     | Object-Oriented Programming (OOP), Part 1   |              |
 |  8     | Object-Oriented Programming (OOP), Part 2   |              | 
-|  9     | Modules and Packages         |            |
-|  10    | Visualizing and Plotting     |            |
+|  9     | Modules and Packages in Python         |            |
+|  10    | Visualizing and Plotting (Matplotlib)     |            |

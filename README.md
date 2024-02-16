@@ -1,7 +1,7 @@
 # Programming For Data Science
 This repo contains lecture notes and other course materials for MATH 1376: Programming for Data Science at CU Denver.
 
-| Lecture Number       | Description                                  | YouTube Video     |
+| Lecture        | Description                                  | YouTube Video     |
 |-------------|----------------------------------------------|-----------------|
 |  1     | Python Basics: Arithmetic/Comparison/Logical Operators                   | https://youtu.be/ZFmyr2lClLk |
 |  2     | Python Data Structures: List, Tuple, Set, Dictionary    | https://youtu.be/LhOs8GVD9UY |

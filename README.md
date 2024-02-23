@@ -15,3 +15,4 @@ This repo contains lecture notes and other course materials for MATH 1376: Progr
 |  10    | Visualizing and Plotting with Matplotlib     |            |
 | 11     | Data Manipulation with Pandas DataFrame    |            |
 | 12     | Machine Learning in Python using scikit-learn  |        | 
+| 13     | Regression in Machine Learning              |          |

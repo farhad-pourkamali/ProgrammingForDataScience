@@ -14,3 +14,4 @@ This repo contains lecture notes and other course materials for MATH 1376: Progr
 |  9     | Modules and Packages in Python         |            |
 |  10    | Visualizing and Plotting with Matplotlib     |            |
 | 11     | Data Manipulation with Pandas DataFrame    |            |
+| 12     | Machine Learning in Python using scikit-learn  |        | 

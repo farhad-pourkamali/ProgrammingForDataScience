@@ -17,3 +17,4 @@ This repo contains lecture notes and other course materials for MATH 1376: Progr
 | 12     | Machine Learning in Python using scikit-learn  |        | 
 | 13     | Regression in Machine Learning              |          |
 | 14     | Classification in Machine Learning          |          |
+| 15     | Neural Networks, TensorFlow AutoDiff, and Keras  |    |

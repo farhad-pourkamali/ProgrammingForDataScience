@@ -9,7 +9,7 @@ This repo contains lecture notes and other course materials for MATH 1376: Progr
 |  4     | Functions in Python: Built-in/Custom/Lambda Functions | https://youtu.be/h7NtIye5tgo  |
 |  5     | Branching Statements (if, elif, else statements)   | https://youtu.be/DFlpMFb-FpU   |
 |  6     | Iteration (for/while loop and list comprehension) |  https://youtu.be/AcVvAPF8MUA                    |
-|  7     | Object-Oriented Programming (OOP), Part 1   |              |
+|  7     | Object-Oriented Programming (OOP), Part 1   | https://youtu.be/k1PXTMhFDJE           |
 |  8     | Object-Oriented Programming (OOP), Part 2   |              | 
 |  9     | Modules and Packages in Python         |            |
 |  10    | Visualizing and Plotting with Matplotlib     |            |

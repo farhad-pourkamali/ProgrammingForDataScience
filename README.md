@@ -14,7 +14,7 @@ This repo contains lecture notes and other course materials for MATH 1376: Progr
 |  9     | Modules and Packages in Python         |     https://youtu.be/WGkD3dF98wQ       |
 |  10    | Visualizing and Plotting with Matplotlib     |    https://youtu.be/d3125-VMDM4        |
 | 11     | Data Manipulation with Pandas DataFrame    |    https://youtu.be/GCZi58FV2UI        |
-| 12     | Machine Learning in Python using scikit-learn  |        | 
-| 13     | Regression in Machine Learning              |          |
-| 14     | Classification in Machine Learning          |          |
-| 15     | Neural Networks, TensorFlow AutoDiff, and Keras  |    |
+| 12     | Machine Learning in Python using scikit-learn  |  https://youtu.be/W-73lDiOQZU      | 
+| 13     | Regression in Machine Learning              |    https://youtu.be/Jz1wVjoIZoQ      |
+| 14     | Classification in Machine Learning          |    https://youtu.be/NUgjrN9VP8c      |
+| 15     | Neural Networks, TensorFlow AutoDiff, and Keras  | https://youtu.be/0ymKV9sm2xw   |
